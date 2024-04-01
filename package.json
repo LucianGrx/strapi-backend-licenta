@@ -16,7 +16,7 @@
     "@strapi/provider-upload-cloudinary": "4.13.6",
     "@strapi/strapi": "4.13.6",
     "knex": "^2.5.1",
-    "pg": "^8.11.3",
+    "pg": "^8.11.4",
     "stripe": "^13.8.0"
   },
   "author": {
